@@ -1,0 +1,5 @@
+total 0
+-rw-r--r-- 1 kanishka_2301 kanishka_2301 0 Jan 28 15:58 output.txt
+-rw-r--r-- 1 kanishka_2301 kanishka_2301 0 Jan 28 15:58 f1
+-rw-r--r-- 1 kanishka_2301 kanishka_2301 0 Jan 28 15:58 f2
+-rw-r--r-- 1 kanishka_2301 kanishka_2301 0 Jan 28 15:58 f3
